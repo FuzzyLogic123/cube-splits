@@ -3,6 +3,7 @@ import './App.css';
 import Header from './Components/Header';
 import background from './hughs-amazing-background.png';
 import DownScrollButton from './Components/DownScrollButton';
+import Inputs from './Components/Inputs';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <div className="" />
       <Header />
       <DownScrollButton />
+      <Inputs />
     </div>
   );
 }
