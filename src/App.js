@@ -1,9 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
 import Header from './Components/Header';
-import background from './hughs-amazing-background.png';
 import DownScrollButton from './Components/DownScrollButton';
 import Inputs from './Components/Inputs';
+import SideImage from './Components/SideImage';
 
 function App() {
   return (
@@ -13,6 +12,7 @@ function App() {
       <Header />
       <DownScrollButton />
       <Inputs />
+      <SideImage />
     </div>
   );
 }

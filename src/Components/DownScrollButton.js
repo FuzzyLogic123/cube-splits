@@ -1,5 +1,5 @@
 import React from 'react';
-import { ReactComponent as DownArrow } from '../Icons/down-arrow.svg';
+import { ReactComponent as DownArrow } from '../icons/down-arrow.svg';
 
 
 function DownScrollButton() {
